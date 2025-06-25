@@ -1,5 +1,7 @@
 # Data Premier League
 
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/fba56bff-7a2a-4c69-bf32-c84b976005d6" />
+
 # F1 Data Explorer
 
 ## Overview
